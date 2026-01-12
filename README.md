@@ -17,9 +17,9 @@ Ferramentas utilizadas
 - Jupyter Notebook
 - PowerPoint para apresentação
 
-Estrutura
-
- — Análise completa com comentários e visualizações
+Estrutura <br>
+<br>
+ — Análise completa com comentários e visualizações<br>
  — Apresentação final do projeto para investidores
 
 Conclusão
